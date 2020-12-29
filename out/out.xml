@@ -1,0 +1,2123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <modelSku>58987</modelSku>
+    <modelName>Capo 2</modelName>
+    <modelYear>2011</modelYear>
+    <modelDescription>
+        Turn the urban landscape into a playground with Cannondale's Capo 2. The frame is made from Cannondale's CAAD5
+        aluminum with an aero aluminum fork that's stiff, light and durable, just what you need when sprinting for the
+        light. Same goes for the wheels, they won't slow you down on climbs, and they'll stay true after bashing into a
+        pothole or 2. For speed everywhere you go, you've got 46/18 gearing, not too big and not too small, and your
+        rear hub is flippable, so you can switch it from fixie to a coasting singlespeed easily. Plus, the flat bars are
+        narrow enough to squeeze you through that alley with the parked trucked and wide enough to crank on when rocking
+        it uphill.
+    </modelDescription>
+    <gender>Not Designated</gender>
+    <Brand>
+        <ID>10</ID>
+        <name>Cannondale</name>
+    </Brand>
+    <Features>
+        <Feature>
+            <name>View the geometry chart.</name>
+            <value>
+                &amp;lt;div align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://www.sefiles.net/seimages/feature/cdale_capo_geo_06_f.gif&amp;quot;
+                width=&amp;quot;548&amp;quot; height=&amp;quot;152&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+            </value>
+        </Feature>
+    </Features>
+    <Specs>
+        <Spec>
+            <name>Frame</name>
+            <value>Cannondale CAAD5 Track aluminum</value>
+        </Spec>
+        <Spec>
+            <name>Fork</name>
+            <value>Cannondale aluminum aero</value>
+        </Spec>
+        <Spec>
+            <name>Rims/Wheels</name>
+            <value>Jalco</value>
+        </Spec>
+        <Spec>
+            <name>Hubs</name>
+            <value>Formula track</value>
+        </Spec>
+        <Spec>
+            <name>Spokes</name>
+            <value>DT Swiss 15g</value>
+        </Spec>
+        <Spec>
+            <name>Tires</name>
+            <value>Vittoria Zaffiro Slick, 700 x 25c</value>
+        </Spec>
+        <Spec>
+            <name>Crankset</name>
+            <value>FSA Vero</value>
+        </Spec>
+        <Spec>
+            <name>Chainrings</name>
+            <value>46T</value>
+        </Spec>
+        <Spec>
+            <name>Rear Cogs</name>
+            <value>Shimano 18T</value>
+        </Spec>
+        <Spec>
+            <name>Handlebars</name>
+            <value>Cannondale C3</value>
+        </Spec>
+        <Spec>
+            <name>Stem</name>
+            <value>Cannondale C3</value>
+        </Spec>
+        <Spec>
+            <name>Brake Levers</name>
+            <value>Cannondale 2-finger</value>
+        </Spec>
+        <Spec>
+            <name>Brakes</name>
+            <value>Tektro</value>
+        </Spec>
+        <Spec>
+            <name>Pedals</name>
+            <value>Wellgo platform</value>
+        </Spec>
+        <Spec>
+            <name>Saddle</name>
+            <value>Cinelli Unicantor Plastic</value>
+        </Spec>
+        <Spec>
+            <name>Seatpost</name>
+            <value>Cannondale C3</value>
+        </Spec>
+    </Specs>
+    <Categories>
+        <Category>
+            <ID>35</ID>
+        </Category>
+    </Categories>
+    <ModelImages>
+        <ModelImage>
+            <micro url="https://www.sefiles.net/images/library/micro/cdale_pr2_blk10_s.jpg">
+                https://www.sefiles.net/images/library/micro/cdale_pr2_blk10_s.jpg
+            </micro>
+            <small url="https://www.sefiles.net/images/library/small/cdale_pr2_blk10_s.jpg">
+                https://www.sefiles.net/images/library/small/cdale_pr2_blk10_s.jpg
+            </small>
+            <large url="https://www.sefiles.net/images/library/large/cdale_pr2_blk10_m.jpg">
+                https://www.sefiles.net/images/library/large/cdale_pr2_blk10_m.jpg
+            </large>
+            <zoom url="https://www.sefiles.net/images/library/zoom/cdale_pr2_blk_10_z.jpg">
+                https://www.sefiles.net/images/library/zoom/cdale_pr2_blk_10_z.jpg
+            </zoom>
+            <caption/>
+            <sortOrder>1</sortOrder>
+        </ModelImage>
+    </ModelImages>
+    <VariationTypes>
+        <VariationType>
+            <ID>2</ID>
+            <name>Size</name>
+            <sortOrder>1</sortOrder>
+        </VariationType>
+    </VariationTypes>
+    <Variations>
+        <Variation>
+            <ID>263786</ID>
+            <variationTypeID>2</variationTypeID>
+            <value>48cm</value>
+            <sortOrder>1</sortOrder>
+            <offset>0</offset>
+            <VariationImages>
+                <VariationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationImage>
+            </VariationImages>
+        </Variation>
+        <Variation>
+            <ID>263787</ID>
+            <variationTypeID>2</variationTypeID>
+            <value>50cm</value>
+            <sortOrder>2</sortOrder>
+            <offset>0</offset>
+            <VariationImages>
+                <VariationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationImage>
+            </VariationImages>
+        </Variation>
+        <Variation>
+            <ID>263788</ID>
+            <variationTypeID>2</variationTypeID>
+            <value>52cm</value>
+            <sortOrder>3</sortOrder>
+            <offset>0</offset>
+            <VariationImages>
+                <VariationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationImage>
+            </VariationImages>
+        </Variation>
+        <Variation>
+            <ID>263789</ID>
+            <variationTypeID>2</variationTypeID>
+            <value>54cm</value>
+            <sortOrder>4</sortOrder>
+            <offset>0</offset>
+            <VariationImages>
+                <VariationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationImage>
+            </VariationImages>
+        </Variation>
+        <Variation>
+            <ID>263790</ID>
+            <variationTypeID>2</variationTypeID>
+            <value>56cm</value>
+            <sortOrder>5</sortOrder>
+            <offset>0</offset>
+            <VariationImages>
+                <VariationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationImage>
+            </VariationImages>
+        </Variation>
+        <Variation>
+            <ID>263791</ID>
+            <variationTypeID>2</variationTypeID>
+            <value>58cm</value>
+            <sortOrder>6</sortOrder>
+            <offset>0</offset>
+            <VariationImages>
+                <VariationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationImage>
+            </VariationImages>
+        </Variation>
+        <Variation>
+            <ID>263792</ID>
+            <variationTypeID>2</variationTypeID>
+            <value>60cm</value>
+            <sortOrder>7</sortOrder>
+            <offset>0</offset>
+            <VariationImages>
+                <VariationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationImage>
+            </VariationImages>
+        </Variation>
+        <Variation>
+            <ID>263793</ID>
+            <variationTypeID>2</variationTypeID>
+            <value>63cm</value>
+            <sortOrder>8</sortOrder>
+            <offset>0</offset>
+            <VariationImages>
+                <VariationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationImage>
+            </VariationImages>
+        </Variation>
+    </Variations>
+    <VariationCombinations>
+        <VariationCombination>
+            <sku>SE58987-232846</sku>
+            <mpn>0PR248/BLK</mpn>
+            <gtin1>00884603100899</gtin1>
+            <gtin2/>
+            <variationName>48cm</variationName>
+            <msrp>949.99</msrp>
+            <lowMsrp>949.99</lowMsrp>
+            <map/>
+            <avgCost/>
+            <length>55.00</length>
+            <width>30.00</width>
+            <height>9.00</height>
+            <weight>35.00</weight>
+            <unit>each</unit>
+            <allowCart>1</allowCart>
+            <shippable>0</shippable>
+            <shipGround>1</shipGround>
+            <shipAir>1</shipAir>
+            <ormd>0</ormd>
+            <taxable>1</taxable>
+            <sortOrder>1</sortOrder>
+            <VariationCombinationImages>
+                <VariationCombinationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationCombinationImage>
+            </VariationCombinationImages>
+            <VariationIds>
+                <variationID>263786</variationID>
+            </VariationIds>
+        </VariationCombination>
+        <VariationCombination>
+            <sku>SE58987-232847</sku>
+            <mpn>0PR250/BLK</mpn>
+            <gtin1>00884603100905</gtin1>
+            <gtin2/>
+            <variationName>50cm</variationName>
+            <msrp>949.99</msrp>
+            <lowMsrp>949.99</lowMsrp>
+            <map/>
+            <avgCost/>
+            <length>55.00</length>
+            <width>30.00</width>
+            <height>9.00</height>
+            <weight>35.00</weight>
+            <unit>each</unit>
+            <allowCart>1</allowCart>
+            <shippable>0</shippable>
+            <shipGround>1</shipGround>
+            <shipAir>1</shipAir>
+            <ormd>0</ormd>
+            <taxable>1</taxable>
+            <sortOrder>2</sortOrder>
+            <VariationCombinationImages>
+                <VariationCombinationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationCombinationImage>
+            </VariationCombinationImages>
+            <VariationIds>
+                <variationID>263787</variationID>
+            </VariationIds>
+        </VariationCombination>
+        <VariationCombination>
+            <sku>SE58987-232848</sku>
+            <mpn>0PR252/BLK</mpn>
+            <gtin1>00884603100912</gtin1>
+            <gtin2/>
+            <variationName>52cm</variationName>
+            <msrp>949.99</msrp>
+            <lowMsrp>949.99</lowMsrp>
+            <map/>
+            <avgCost/>
+            <length>55.00</length>
+            <width>30.00</width>
+            <height>9.00</height>
+            <weight>35.00</weight>
+            <unit>each</unit>
+            <allowCart>1</allowCart>
+            <shippable>0</shippable>
+            <shipGround>1</shipGround>
+            <shipAir>1</shipAir>
+            <ormd>0</ormd>
+            <taxable>1</taxable>
+            <sortOrder>3</sortOrder>
+            <VariationCombinationImages>
+                <VariationCombinationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationCombinationImage>
+            </VariationCombinationImages>
+            <VariationIds>
+                <variationID>263788</variationID>
+            </VariationIds>
+        </VariationCombination>
+        <VariationCombination>
+            <sku>SE58987-232849</sku>
+            <mpn>0PR254/BLK</mpn>
+            <gtin1>00884603100929</gtin1>
+            <gtin2/>
+            <variationName>54cm</variationName>
+            <msrp>949.99</msrp>
+            <lowMsrp>949.99</lowMsrp>
+            <map/>
+            <avgCost/>
+            <length>55.00</length>
+            <width>30.00</width>
+            <height>9.00</height>
+            <weight>35.00</weight>
+            <unit>each</unit>
+            <allowCart>1</allowCart>
+            <shippable>0</shippable>
+            <shipGround>1</shipGround>
+            <shipAir>1</shipAir>
+            <ormd>0</ormd>
+            <taxable>1</taxable>
+            <sortOrder>4</sortOrder>
+            <VariationCombinationImages>
+                <VariationCombinationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationCombinationImage>
+            </VariationCombinationImages>
+            <VariationIds>
+                <variationID>263789</variationID>
+            </VariationIds>
+        </VariationCombination>
+        <VariationCombination>
+            <sku>SE58987-232850</sku>
+            <mpn>0PR256/BLK</mpn>
+            <gtin1>00884603100936</gtin1>
+            <gtin2/>
+            <variationName>56cm</variationName>
+            <msrp>949.99</msrp>
+            <lowMsrp>949.99</lowMsrp>
+            <map/>
+            <avgCost/>
+            <length>55.00</length>
+            <width>30.00</width>
+            <height>9.00</height>
+            <weight>35.00</weight>
+            <unit>each</unit>
+            <allowCart>1</allowCart>
+            <shippable>0</shippable>
+            <shipGround>1</shipGround>
+            <shipAir>1</shipAir>
+            <ormd>0</ormd>
+            <taxable>1</taxable>
+            <sortOrder>5</sortOrder>
+            <VariationCombinationImages>
+                <VariationCombinationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationCombinationImage>
+            </VariationCombinationImages>
+            <VariationIds>
+                <variationID>263790</variationID>
+            </VariationIds>
+        </VariationCombination>
+        <VariationCombination>
+            <sku>SE58987-232851</sku>
+            <mpn>0PR258/BLK</mpn>
+            <gtin1>00884603100943</gtin1>
+            <gtin2/>
+            <variationName>58cm</variationName>
+            <msrp>949.99</msrp>
+            <lowMsrp>949.99</lowMsrp>
+            <map/>
+            <avgCost/>
+            <length>55.00</length>
+            <width>30.00</width>
+            <height>9.00</height>
+            <weight>35.00</weight>
+            <unit>each</unit>
+            <allowCart>1</allowCart>
+            <shippable>0</shippable>
+            <shipGround>1</shipGround>
+            <shipAir>1</shipAir>
+            <ormd>0</ormd>
+            <taxable>1</taxable>
+            <sortOrder>6</sortOrder>
+            <VariationCombinationImages>
+                <VariationCombinationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationCombinationImage>
+            </VariationCombinationImages>
+            <VariationIds>
+                <variationID>263791</variationID>
+            </VariationIds>
+        </VariationCombination>
+        <VariationCombination>
+            <sku>SE58987-232852</sku>
+            <mpn>0PR260/BLK</mpn>
+            <gtin1>00884603100950</gtin1>
+            <gtin2/>
+            <variationName>60cm</variationName>
+            <msrp>949.99</msrp>
+            <lowMsrp>949.99</lowMsrp>
+            <map/>
+            <avgCost/>
+            <length>55.00</length>
+            <width>30.00</width>
+            <height>9.00</height>
+            <weight>35.00</weight>
+            <unit>each</unit>
+            <allowCart>1</allowCart>
+            <shippable>0</shippable>
+            <shipGround>1</shipGround>
+            <shipAir>1</shipAir>
+            <ormd>0</ormd>
+            <taxable>1</taxable>
+            <sortOrder>7</sortOrder>
+            <VariationCombinationImages>
+                <VariationCombinationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationCombinationImage>
+            </VariationCombinationImages>
+            <VariationIds>
+                <variationID>263792</variationID>
+            </VariationIds>
+        </VariationCombination>
+        <VariationCombination>
+            <sku>SE58987-232853</sku>
+            <mpn>0PR263/BLK</mpn>
+            <gtin1>00884603100967</gtin1>
+            <gtin2/>
+            <variationName>63cm</variationName>
+            <msrp>949.99</msrp>
+            <lowMsrp>949.99</lowMsrp>
+            <map/>
+            <avgCost/>
+            <length>55.00</length>
+            <width>30.00</width>
+            <height>9.00</height>
+            <weight>35.00</weight>
+            <unit>each</unit>
+            <allowCart>1</allowCart>
+            <shippable>0</shippable>
+            <shipGround>1</shipGround>
+            <shipAir>1</shipAir>
+            <ormd>0</ormd>
+            <taxable>1</taxable>
+            <sortOrder>8</sortOrder>
+            <VariationCombinationImages>
+                <VariationCombinationImage>
+                    <micro/>
+                    <small/>
+                    <large/>
+                    <zoom/>
+                    <caption/>
+                    <sortOrder>0</sortOrder>
+                </VariationCombinationImage>
+            </VariationCombinationImages>
+            <VariationIds>
+                <variationID>263793</variationID>
+            </VariationIds>
+        </VariationCombination>
+    </VariationCombinations>
+</Product>
+<Product>
+<modelSku>233</modelSku>
+<modelName>Mountain Mirrycle Mirror</modelName>
+<modelYear>2019</modelYear>
+<modelDescription>
+    The Mountain Mirrycle Mirror quickly attaches to most any flat handlebar using the supplied wrench. Its convex
+    mirror provides a wide field of view to help you clearly see approaching traffic. And the mirror head adjusts to
+    your optimum viewing angle.
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>47</ID>
+    <name>Mirrycle</name>
+</Brand>
+<Features/>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>143</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro url="https://www.sefiles.net/images/library/micro/mirr_1_mirr2_09_s.jpg">
+            https://www.sefiles.net/images/library/micro/mirr_1_mirr2_09_s.jpg
+        </micro>
+        <small url="https://www.sefiles.net/images/library/small/mirr_1_mirr2_09_s.jpg">
+            https://www.sefiles.net/images/library/small/mirr_1_mirr2_09_s.jpg
+        </small>
+        <large url="https://www.sefiles.net/images/library/large/mirr_1_mirr2_09_m.jpg">
+            https://www.sefiles.net/images/library/large/mirr_1_mirr2_09_m.jpg
+        </large>
+        <zoom/>
+        <caption/>
+        <sortOrder>1</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes/>
+<Variations/>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE233-676815</sku>
+        <mpn>20MIR</mpn>
+        <gtin1>00764459234958</gtin1>
+        <gtin2/>
+        <variationName/>
+        <msrp>18.00</msrp>
+        <lowMsrp>15.90</lowMsrp>
+        <map/>
+        <avgCost>8.48</avgCost>
+        <length>9.00</length>
+        <width>5.00</width>
+        <height>1.50</height>
+        <weight>0.50</weight>
+        <unit>each</unit>
+        <allowCart>1</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>0</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product><?xml version="1.0" encoding="UTF-8"?><Product>
+<modelSku>235</modelSku>
+<modelName>Original Mirrycle Mirror</modelName>
+<modelYear>2019</modelYear>
+<modelDescription>
+    The Original Mirrycle Mirror fits older style brake levers which use non-aero cable routing, as shown in the photo.
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>47</ID>
+    <name>Mirrycle</name>
+</Brand>
+<Features/>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>143</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro url="https://www.sefiles.net/images/library/micro/mirr_1_mirr1_09_s.jpg">
+            https://www.sefiles.net/images/library/micro/mirr_1_mirr1_09_s.jpg
+        </micro>
+        <small url="https://www.sefiles.net/images/library/small/mirr_1_mirr1_09_s.jpg">
+            https://www.sefiles.net/images/library/small/mirr_1_mirr1_09_s.jpg
+        </small>
+        <large url="https://www.sefiles.net/images/library/large/mirr_1_mirr1_09_m.jpg">
+            https://www.sefiles.net/images/library/large/mirr_1_mirr1_09_m.jpg
+        </large>
+        <zoom/>
+        <caption/>
+        <sortOrder>1</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes/>
+<Variations/>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE235-677179</sku>
+        <mpn>20ORG</mpn>
+        <gtin1>00764459234903</gtin1>
+        <gtin2/>
+        <variationName/>
+        <msrp>18.00</msrp>
+        <lowMsrp>17.99</lowMsrp>
+        <map/>
+        <avgCost>8.52</avgCost>
+        <length>9.00</length>
+        <width>5.00</width>
+        <height>1.50</height>
+        <weight>0.50</weight>
+        <unit>each</unit>
+        <allowCart>1</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>0</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product><?xml version="1.0" encoding="UTF-8"?><Product>
+<modelSku>340</modelSku>
+<modelName>Incredibell XL</modelName>
+<modelYear>2019</modelYear>
+<modelDescription>
+    The Incredibell XL is louder and a little larger, but with the same unique pivoting dinger that keeps it compact for
+    fitting on packed handlebars.
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>47</ID>
+    <name>Mirrycle</name>
+</Brand>
+<Features/>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>142</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro url="https://www.sefiles.net/images/library/micro/mirr_1_xl_09_s.jpg">
+            https://www.sefiles.net/images/library/micro/mirr_1_xl_09_s.jpg
+        </micro>
+        <small url="https://www.sefiles.net/images/library/small/mirr_1_xl_09_s.jpg">
+            https://www.sefiles.net/images/library/small/mirr_1_xl_09_s.jpg
+        </small>
+        <large url="https://www.sefiles.net/images/library/large/mirr_1_xl_09_m.jpg">
+            https://www.sefiles.net/images/library/large/mirr_1_xl_09_m.jpg
+        </large>
+        <zoom/>
+        <caption/>
+        <sortOrder>1</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes/>
+<Variations/>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE340-718616</sku>
+        <mpn>20XLB</mpn>
+        <gtin1>00764459311017</gtin1>
+        <gtin2/>
+        <variationName/>
+        <msrp>10.00</msrp>
+        <lowMsrp>9.99</lowMsrp>
+        <map/>
+        <avgCost>5.19</avgCost>
+        <length>7.00</length>
+        <width>4.38</width>
+        <height>3.25</height>
+        <weight>0.10</weight>
+        <unit>each</unit>
+        <allowCart>1</allowCart>
+        <shippable>1</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>0</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product><?xml version="1.0" encoding="UTF-8"?><Product>
+<modelSku>2876</modelSku>
+<modelName>Gift Certificates</modelName>
+<modelYear/>
+<modelDescription>
+    Finding the perfect gift can be tough. Which is exactly why we offer gift certificates. They make great presents for
+    relatives and friends, and are a fantastic way to thank someone special. They're always the right size and color,
+    too. We can mail the certificate to you or the intended recipient. Just enter the appropriate address in the &amp;quot;Ship
+    To&amp;quot; field during checkout. Gift certificates are for in-store redemption only.
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>45</ID>
+    <name/>
+</Brand>
+<Features/>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>90</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro url="https://www.sefiles.net/images/library/micro/gift_certificate_s.gif">
+            https://www.sefiles.net/images/library/micro/gift_certificate_s.gif
+        </micro>
+        <small url="https://www.sefiles.net/images/library/small/gift_certificate_s.gif">
+            https://www.sefiles.net/images/library/small/gift_certificate_s.gif
+        </small>
+        <large url="https://www.sefiles.net/images/library/large/gift_certificate_m.gif">
+            https://www.sefiles.net/images/library/large/gift_certificate_m.gif
+        </large>
+        <zoom/>
+        <caption/>
+        <sortOrder>1</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes>
+    <VariationType>
+        <ID>2</ID>
+        <name>Size</name>
+        <sortOrder>1</sortOrder>
+    </VariationType>
+</VariationTypes>
+<Variations>
+    <Variation>
+        <ID>340885</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$10</value>
+        <sortOrder>340885</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340886</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$15</value>
+        <sortOrder>340886</sortOrder>
+        <offset>5</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340887</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$20</value>
+        <sortOrder>340887</sortOrder>
+        <offset>10</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340888</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$25</value>
+        <sortOrder>340888</sortOrder>
+        <offset>15</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340889</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$30</value>
+        <sortOrder>340889</sortOrder>
+        <offset>20</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340890</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$40</value>
+        <sortOrder>340890</sortOrder>
+        <offset>30</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340891</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$50</value>
+        <sortOrder>340891</sortOrder>
+        <offset>40</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340892</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$75</value>
+        <sortOrder>340892</sortOrder>
+        <offset>65</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340893</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$100</value>
+        <sortOrder>340893</sortOrder>
+        <offset>90</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340894</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$150</value>
+        <sortOrder>340894</sortOrder>
+        <offset>140</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340895</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$200</value>
+        <sortOrder>340895</sortOrder>
+        <offset>190</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340896</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$250</value>
+        <sortOrder>340896</sortOrder>
+        <offset>240</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340897</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$500</value>
+        <sortOrder>340897</sortOrder>
+        <offset>490</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>340898</ID>
+        <variationTypeID>2</variationTypeID>
+        <value>$1000</value>
+        <sortOrder>340898</sortOrder>
+        <offset>990</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+</Variations>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE2876-693121</sku>
+        <mpn/>
+        <gtin1/>
+        <gtin2/>
+        <variationName/>
+        <msrp>10.00</msrp>
+        <lowMsrp/>
+        <map/>
+        <avgCost/>
+        <length>1.00</length>
+        <width>1.00</width>
+        <height>1.00</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>1</allowCart>
+        <shippable>1</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>0</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product><?xml version="1.0" encoding="UTF-8"?><Product>
+<modelSku>3244</modelSku>
+<modelName>Incredibell Brass Solo</modelName>
+<modelYear>2019</modelYear>
+<modelDescription>
+    Don't let the half-pint stature fool you, Mirrycle's little Incredibell Brass Solo packs the beautifully resonant
+    ring of solid brass. Its compact size and pivoting ringer let you mount it just about anywhere on your handlebars. A
+    flick of your finger and it rings clear for all to hear.
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>47</ID>
+    <name>Mirrycle</name>
+</Brand>
+<Features/>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>142</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro/>
+        <small/>
+        <large/>
+        <zoom/>
+        <caption/>
+        <sortOrder>0</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes>
+    <VariationType>
+        <ID>1</ID>
+        <name>Color</name>
+        <sortOrder>1</sortOrder>
+    </VariationType>
+</VariationTypes>
+<Variations>
+    <Variation>
+        <ID>13918</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Brass</value>
+        <sortOrder>13918</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro url="https://www.sefiles.net/images/library/micro/mirr_1_brassolo_09_s.jpg">
+                    https://www.sefiles.net/images/library/micro/mirr_1_brassolo_09_s.jpg
+                </micro>
+                <small url="https://www.sefiles.net/images/library/small/mirr_1_brassolo_09_s.jpg">
+                    https://www.sefiles.net/images/library/small/mirr_1_brassolo_09_s.jpg
+                </small>
+                <large url="https://www.sefiles.net/images/library/large/mirr_1_brassolo_09_m.jpg">
+                    https://www.sefiles.net/images/library/large/mirr_1_brassolo_09_m.jpg
+                </large>
+                <zoom/>
+                <caption/>
+                <sortOrder>1</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>13919</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Chrome-plated</value>
+        <sortOrder>13919</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro url="https://www.sefiles.net/images/library/micro/mirrycle-incredibell-brass-solo-3244-1.jpg">
+                    https://www.sefiles.net/images/library/micro/mirrycle-incredibell-brass-solo-3244-1.jpg
+                </micro>
+                <small url="https://www.sefiles.net/images/library/small/mirrycle-incredibell-brass-solo-3244-1.jpg">
+                    https://www.sefiles.net/images/library/small/mirrycle-incredibell-brass-solo-3244-1.jpg
+                </small>
+                <large url="https://www.sefiles.net/images/library/large/mirrycle-incredibell-brass-solo-3244-1.jpg">
+                    https://www.sefiles.net/images/library/large/mirrycle-incredibell-brass-solo-3244-1.jpg
+                </large>
+                <zoom/>
+                <caption/>
+                <sortOrder>1</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+</Variations>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE3244-24015</sku>
+        <mpn>20IBS</mpn>
+        <gtin1>00764459311307</gtin1>
+        <gtin2/>
+        <variationName>Brass</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>11.99</lowMsrp>
+        <map/>
+        <avgCost>5.63</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13918</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE3244-24016</sku>
+        <mpn>20ICS</mpn>
+        <gtin1>00764459311321</gtin1>
+        <gtin2/>
+        <variationName>Chrome-plated</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>11.99</lowMsrp>
+        <map/>
+        <avgCost>5.63</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>2</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13919</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product><?xml version="1.0" encoding="UTF-8"?><Product>
+<modelSku>3249</modelSku>
+<modelName>Incredibell Big Brass</modelName>
+<modelYear>2019</modelYear>
+<modelDescription>
+    Mirrcyle's Incredibell Big Brass makes a dual-tone, melodic ring with the beautifully resonant ding of solid brass.
+    Its compact size lets you mount it just about anywhere on your handlebars.
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>47</ID>
+    <name>Mirrycle</name>
+</Brand>
+<Features>
+    <Feature>
+        <name>Weight: 51 grams</name>
+        <value/>
+    </Feature>
+</Features>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>142</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro url="https://www.sefiles.net/images/library/micro/mirr_bigbrass_09_s.jpg">
+            https://www.sefiles.net/images/library/micro/mirr_bigbrass_09_s.jpg
+        </micro>
+        <small url="https://www.sefiles.net/images/library/small/mirr_bigbrass_09_s.jpg">
+            https://www.sefiles.net/images/library/small/mirr_bigbrass_09_s.jpg
+        </small>
+        <large url="https://www.sefiles.net/images/library/large/mirr_bigbrass_09_m.jpg">
+            https://www.sefiles.net/images/library/large/mirr_bigbrass_09_m.jpg
+        </large>
+        <zoom/>
+        <caption>Sold individually</caption>
+        <sortOrder>1</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes>
+    <VariationType>
+        <ID>1</ID>
+        <name>Color</name>
+        <sortOrder>1</sortOrder>
+    </VariationType>
+</VariationTypes>
+<Variations>
+    <Variation>
+        <ID>13920</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Brass</value>
+        <sortOrder>13918</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>13921</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Chrome-plated</value>
+        <sortOrder>13919</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+</Variations>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE3249-24017</sku>
+        <mpn>20IBBB</mpn>
+        <gtin1>00764459311864</gtin1>
+        <gtin2/>
+        <variationName>Brass</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>12.00</lowMsrp>
+        <map/>
+        <avgCost>5.60</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.15</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13920</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE3249-24018</sku>
+        <mpn>20IBBC</mpn>
+        <gtin1>00764459311888</gtin1>
+        <gtin2/>
+        <variationName>Chrome-plated</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>11.99</lowMsrp>
+        <map/>
+        <avgCost>5.60</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.15</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>2</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13921</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product><?xml version="1.0" encoding="UTF-8"?><Product>
+<modelSku>3250</modelSku>
+<modelName>Incredibell Candibell</modelName>
+<modelYear>2019</modelYear>
+<modelDescription>
+    Mirrycle's Candibell is more than just a fun, compact bell. Not only does it come in five delicious candy colors
+    (shown), it&amp;#8217;s the loudest Incredibell of all.
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>47</ID>
+    <name>Mirrycle</name>
+</Brand>
+<Features/>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>142</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro url="https://www.sefiles.net/images/library/micro/mirr_1_cand_09_s.jpg">
+            https://www.sefiles.net/images/library/micro/mirr_1_cand_09_s.jpg
+        </micro>
+        <small url="https://www.sefiles.net/images/library/small/mirr_1_cand_09_s.jpg">
+            https://www.sefiles.net/images/library/small/mirr_1_cand_09_s.jpg
+        </small>
+        <large url="https://www.sefiles.net/images/library/large/mirr_1_cand_09_m.jpg">
+            https://www.sefiles.net/images/library/large/mirr_1_cand_09_m.jpg
+        </large>
+        <zoom/>
+        <caption>Sold individually.</caption>
+        <sortOrder>1</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes>
+    <VariationType>
+        <ID>1</ID>
+        <name>Color</name>
+        <sortOrder>1</sortOrder>
+    </VariationType>
+</VariationTypes>
+<Variations>
+    <Variation>
+        <ID>13928</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Blue</value>
+        <sortOrder>1</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>13924</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Green</value>
+        <sortOrder>2</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>13927</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Orange</value>
+        <sortOrder>3</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>13925</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Purple</value>
+        <sortOrder>4</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>13926</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Pink</value>
+        <sortOrder>5</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+</Variations>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE3250-24019</sku>
+        <mpn>20CANP</mpn>
+        <gtin1>00764459311260</gtin1>
+        <gtin2/>
+        <variationName>Purple</variationName>
+        <msrp>10.00</msrp>
+        <lowMsrp>9.99</lowMsrp>
+        <map/>
+        <avgCost>4.80</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>5</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13925</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE3250-24020</sku>
+        <mpn>20CANO</mpn>
+        <gtin1>00764459311246</gtin1>
+        <gtin2/>
+        <variationName>Orange</variationName>
+        <msrp>10.00</msrp>
+        <lowMsrp>9.99</lowMsrp>
+        <map/>
+        <avgCost>4.80</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>3</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13927</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE3250-24021</sku>
+        <mpn>20CANG</mpn>
+        <gtin1>00764459311222</gtin1>
+        <gtin2/>
+        <variationName>Green</variationName>
+        <msrp>10.00</msrp>
+        <lowMsrp>9.99</lowMsrp>
+        <map/>
+        <avgCost>4.80</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>2</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13924</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE3250-24022</sku>
+        <mpn>20CANR</mpn>
+        <gtin1>00764459311284</gtin1>
+        <gtin2/>
+        <variationName>Pink</variationName>
+        <msrp>10.00</msrp>
+        <lowMsrp>9.99</lowMsrp>
+        <map/>
+        <avgCost>4.80</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>4</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13926</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE3250-24023</sku>
+        <mpn>20CANB</mpn>
+        <gtin1>00764459311208</gtin1>
+        <gtin2/>
+        <variationName>Blue</variationName>
+        <msrp>10.00</msrp>
+        <lowMsrp>9.99</lowMsrp>
+        <map/>
+        <avgCost>4.80</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>13928</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product><?xml version="1.0" encoding="UTF-8"?><Product>
+<modelSku>11974</modelSku>
+<modelName>Incredibell Jellibell</modelName>
+<modelYear>2019</modelYear>
+<modelDescription>
+    The Mirrycle Jellibell is a fun way to let pedestrians and other riders know you're coming! The Jellibell has a
+    see-through top so you can see the gears spin as it rings. It's weatherproof, too!
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>47</ID>
+    <name>Mirrycle</name>
+</Brand>
+<Features/>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>142</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro url="https://www.sefiles.net/images/library/micro/mirr_1_jelli_09_s.jpg">
+            https://www.sefiles.net/images/library/micro/mirr_1_jelli_09_s.jpg
+        </micro>
+        <small url="https://www.sefiles.net/images/library/small/mirr_1_jelli_09_s.jpg">
+            https://www.sefiles.net/images/library/small/mirr_1_jelli_09_s.jpg
+        </small>
+        <large url="https://www.sefiles.net/images/library/large/mirr_1_jelli_09_m.jpg">
+            https://www.sefiles.net/images/library/large/mirr_1_jelli_09_m.jpg
+        </large>
+        <zoom/>
+        <caption>Sold individually.</caption>
+        <sortOrder>1</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes>
+    <VariationType>
+        <ID>1</ID>
+        <name>Color</name>
+        <sortOrder>1</sortOrder>
+    </VariationType>
+</VariationTypes>
+<Variations>
+    <Variation>
+        <ID>55578</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Green Jellibell</value>
+        <sortOrder>4938</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>55579</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Purple Jellibell</value>
+        <sortOrder>4939</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>55580</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Red Jellibell</value>
+        <sortOrder>4940</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>55581</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Orange Jellibell</value>
+        <sortOrder>4941</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+    <Variation>
+        <ID>55582</ID>
+        <variationTypeID>1</variationTypeID>
+        <value>Blue Jellibell</value>
+        <sortOrder>4942</sortOrder>
+        <offset>0</offset>
+        <VariationImages>
+            <VariationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationImage>
+        </VariationImages>
+    </Variation>
+</Variations>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE11974-24010</sku>
+        <mpn>20JLBG</mpn>
+        <gtin1>00764459311062</gtin1>
+        <gtin2/>
+        <variationName>Green Jellibell</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>12.00</lowMsrp>
+        <map/>
+        <avgCost>6.25</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>2</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>55578</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE11974-24011</sku>
+        <mpn>20JLBP</mpn>
+        <gtin1>00764459311086</gtin1>
+        <gtin2/>
+        <variationName>Purple Jellibell</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>12.00</lowMsrp>
+        <map/>
+        <avgCost>6.25</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>4</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>55579</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE11974-24012</sku>
+        <mpn>20JLBR</mpn>
+        <gtin1>00764459311093</gtin1>
+        <gtin2/>
+        <variationName>Red Jellibell</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>12.00</lowMsrp>
+        <map/>
+        <avgCost>6.23</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>5</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>55580</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE11974-24013</sku>
+        <mpn>20JLBO</mpn>
+        <gtin1>00764459311079</gtin1>
+        <gtin2/>
+        <variationName>Orange Jellibell</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>12.00</lowMsrp>
+        <map/>
+        <avgCost>6.25</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>3</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>55581</variationID>
+        </VariationIds>
+    </VariationCombination>
+    <VariationCombination>
+        <sku>SE11974-24014</sku>
+        <mpn>20JLBB</mpn>
+        <gtin1>00764459311055</gtin1>
+        <gtin2/>
+        <variationName>Blue Jellibell</variationName>
+        <msrp>12.00</msrp>
+        <lowMsrp>12.00</lowMsrp>
+        <map/>
+        <avgCost>6.25</avgCost>
+        <length>7.00</length>
+        <width>4.50</width>
+        <height>2.50</height>
+        <weight>0.25</weight>
+        <unit>each</unit>
+        <allowCart>0</allowCart>
+        <shippable>0</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>55582</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product><?xml version="1.0" encoding="UTF-8"?><Product>
+<modelSku>15769</modelSku>
+<modelName>Tube Trap</modelName>
+<modelYear>2013</modelYear>
+<modelDescription>
+    The Tube Trap secures your drinking tube to CamelBak's 3/4-inch shoulder straps to keep it within close proximity.
+    It fits both insulated and regular delivery tubes.
+</modelDescription>
+<gender>Not Designated</gender>
+<Brand>
+    <ID>9</ID>
+    <name>CamelBak</name>
+</Brand>
+<Features/>
+<Specs/>
+<Categories>
+    <Category>
+        <ID>92</ID>
+    </Category>
+</Categories>
+<ModelImages>
+    <ModelImage>
+        <micro url="https://www.sefiles.net/images/library/micro/camelbak_tubetrap_black_05_s.jpg">
+            https://www.sefiles.net/images/library/micro/camelbak_tubetrap_black_05_s.jpg
+        </micro>
+        <small url="https://www.sefiles.net/images/library/small/camelbak_tubetrap_black_05_s.jpg">
+            https://www.sefiles.net/images/library/small/camelbak_tubetrap_black_05_s.jpg
+        </small>
+        <large url="https://www.sefiles.net/images/library/large/camelbak_tubetrap_black_05_m.jpg">
+            https://www.sefiles.net/images/library/large/camelbak_tubetrap_black_05_m.jpg
+        </large>
+        <zoom/>
+        <caption/>
+        <sortOrder>1</sortOrder>
+    </ModelImage>
+</ModelImages>
+<VariationTypes/>
+<Variations/>
+<VariationCombinations>
+    <VariationCombination>
+        <sku>SE15769-673623</sku>
+        <mpn>90021</mpn>
+        <gtin1>00713852900212</gtin1>
+        <gtin2/>
+        <variationName/>
+        <msrp>1.99</msrp>
+        <lowMsrp>1.99</lowMsrp>
+        <map/>
+        <avgCost>1.39</avgCost>
+        <length>10.00</length>
+        <width>6.50</width>
+        <height>2.00</height>
+        <weight>0.50</weight>
+        <unit>each</unit>
+        <allowCart>1</allowCart>
+        <shippable>1</shippable>
+        <shipGround>1</shipGround>
+        <shipAir>1</shipAir>
+        <ormd>0</ormd>
+        <taxable>1</taxable>
+        <sortOrder>1</sortOrder>
+        <VariationCombinationImages>
+            <VariationCombinationImage>
+                <micro/>
+                <small/>
+                <large/>
+                <zoom/>
+                <caption/>
+                <sortOrder>0</sortOrder>
+            </VariationCombinationImage>
+        </VariationCombinationImages>
+        <VariationIds>
+            <variationID>0</variationID>
+        </VariationIds>
+    </VariationCombination>
+</VariationCombinations>
+</Product>
